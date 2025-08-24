@@ -1,0 +1,9 @@
+tomon=int(input("birinchi tomoni:"))
+tomon2=int(input("ikkinchi tomoni:"))
+tomon3=int(input("uchinchi tomon:"))
+if tomon==tomon2==tomon3:
+    print("teng tomonli")
+if tomon==tomon2!=tomon3:
+    print("teng yonli") 
+if tomon!=tomon2!=tomon3:
+    print("turli tomonli")       
